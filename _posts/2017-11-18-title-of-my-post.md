@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bella hi"
+title: "bella-hi"
 date: 2017-11-18
 ---
 
