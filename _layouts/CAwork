@@ -2,9 +2,13 @@
 <html>
 <link rel="stylesheet" href="style.css" />
 <head>
+<h1 id="greeting">
+<script type="text/javascript" src="script.js"></script>
+</h1>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <body>
 <img id="logo" src="https://www.codecademy.com/assets/codecademy_logo_small.png">
+
 <ul id="nav_container">
     <li><a href="home.html">Home</li>
     <li><a href="products.html">Products</li>
