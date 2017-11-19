@@ -5,11 +5,29 @@ p {
 .left_column {
     margin-right: 170px;
 }
-.right_column{
+.right_column {
     float:right;
     width:160px;
     text-align: center;
     font-size:30px;
     color: red;
     text-transform:uppercase;
+}
+
+ul {
+    list-style-type:none;
+    background-color: coral;
+    margin-bottom: 15px;
+}
+li {
+    display: inline-block;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+
+}
+a:hover {
+    color: purple;
 }
