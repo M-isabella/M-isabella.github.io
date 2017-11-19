@@ -1,0 +1,15 @@
+p {
+    text-align:justify;
+    margin: 0 20%;
+}
+.left_column {
+    margin-right: 170px;
+}
+.right_column{
+    float:right;
+    width:160px;
+    text-align: center;
+    font-size:30px;
+    color: red;
+    text-transform:uppercase;
+}
