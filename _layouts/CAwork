@@ -1,5 +1,6 @@
 <DOCTYPE! html>
 <html>
+<link rel="stylesheet" href="style.css" />
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <body>
@@ -11,6 +12,10 @@
     <li><a href="contact.html">Contact</li>
 </ul>
 <div id="main_content">
+<div id="rightfloat" class="right_column">
+<img src="http://i1150.photobucket.com/albums/o605/slaundy/160x600ad.gif">
+</div> <!--div for right_column-->
+
 <div class="left_column">
 <p>
 Lorizzle ipsizzle  sizzle amizzle, for sure adipiscing i'm in the shizzle.Nullam break it down fo shizzle,  volutpizzle,  daahng , gravida vizzle, arcu. 
@@ -18,9 +23,6 @@ Lorizzle ipsizzle  sizzle amizzle, for sure adipiscing i'm in the shizzle.Nullam
 <img>
 
 </div> <!--div for left_column-->
-<div class="right_column">
-<img src="http://i1150.photobucket.com/albums/o605/slaundy/160x600ad.gif">
-</div> <!--div for right_column-->
 </div> <!--div for main_content-->
 </body>
 </head>
