@@ -1,0 +1,27 @@
+<DOCTYPE! html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<body>
+<img id="logo" src="https://www.codecademy.com/assets/codecademy_logo_small.png">
+<ul id="nav_container">
+    <li><a href="home.html">Home</li>
+    <li><a href="products.html">Products</li>
+    <li><a href="services.html">Services</li>
+    <li><a href="contact.html">Contact</li>
+</ul>
+<div id="main_content">
+<div class="left_column">
+<p>
+Lorizzle ipsizzle  sizzle amizzle, for sure adipiscing i'm in the shizzle.Nullam break it down fo shizzle,  volutpizzle,  daahng , gravida vizzle, arcu. 
+</p>
+<img>
+
+</div> <!--div for left_column-->
+<div class="right_column">
+<img src="http://i1150.photobucket.com/albums/o605/slaundy/160x600ad.gif">
+</div> <!--div for right_column-->
+</div> <!--div for main_content-->
+</body>
+</head>
+</html>
